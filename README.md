@@ -12,8 +12,8 @@ The repository is not yet complete. I will update it as I complete each arc of t
 ### The Balance Season
 1. Here there be Gerblins - Complete
 2. Moonlighting - Complete
-3. Murder on the Rockport Limited - In Progress
-4. Lunar Interlude I
+3. Murder on the Rockport Limited - Complete
+4. Lunar Interlude I - In Progress
 5. Petals to the Metal
 6. Lunar Interlude II
 7. Crystal Kingdom
