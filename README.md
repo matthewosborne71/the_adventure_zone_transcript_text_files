@@ -13,8 +13,8 @@ The repository is not yet complete. I will update it as I complete each arc of t
 1. Here there be Gerblins - Complete
 2. Moonlighting - Complete
 3. Murder on the Rockport Limited - Complete
-4. Lunar Interlude I - In Progress
-5. Petals to the Metal
+4. Lunar Interlude I: Carnival Chaos - Complete
+5. Petals to the Metal - In Progress
 6. Lunar Interlude II
 7. Crystal Kingdom
 8. Lunar Interlude III
