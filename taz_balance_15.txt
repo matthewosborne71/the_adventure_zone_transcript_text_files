@@ -49,7 +49,7 @@ Griffin:  He pulls out the Book of Interception that he used to discover your tr
 Angus:  What am I looking for here?
 Magnus:  Is there anything since just before we heard the scream that alerted us to the Jenkins murder, or anything after? Any information we should have before we move forward?
 Griffin:  He flips through the book really quickly.
-Angus:  This is not a great time for it. We‘re about to do some action- packed SWAT shit, but...
+Angus:  This is not a great time for it. We‘re about to do some action-packed SWAT shit, but...
 Clint:  [laughs]
 Angus:  No, I don‘t see any messages in here.
 Griffin:  He says.
@@ -282,6 +282,21 @@ Magnus:  Yeah, we all grew closer as friends.
 Griffin:  And Jess says...
 Jess:  What are you talking about?
 Griffin:  And Angus says...
+Angus:  Oh, I'm the world‘s greatest detective. Anyway, um... you'll remember, before the murder, before any of this even happened, we were interrupted by the sound of somebody moving past the sleeper car towards the back of the car. If Jess and Graham were in the front of the car, the engineer was already dead. Who was—
+Magnus:  We‘ll call him Jengineer.
+Angus:  If the—he had a name, and it was Hudson.
+Merle:  Hudson!
+Angus:  Remember all those great Hudson—
+Magnus:  Hudson Hawk!
+Angus:  Remember all those great Hudson Hawk goofs?
+Travis:  [laughs]
+Taako:  I'll never forget them.
+Angus:  If Hudson was already killed, and Jess and Graham were in the front of the car, and the four of us were in my sleeper car, who was that moving towards the back of the car, and where are they?
+Magnus:  Jen—is it Jenkins?
+Angus:  Yeah, I mean, yes.
+Clint:  [laughs]
+Magnus:  So Jenkins is in the actual final car?
+Taako:  Jenkins is in the real—with the real crypt, in the real room.
 Travis:  Alright. I point at Jess, and I say...
 Magnus:  Summon that soulbound axe. We‘re gonna hack our way through a wall.
 Griffin:  Uh, she says, uh...
@@ -427,7 +442,8 @@ Justin:  No, man, you have not rested.
 Griffin:  I think you might be—I think you are fresh out of magic, my dude.
 Justin:  You're magicked out. I'm sorry to have to be the DM for you, but...
 Travis:  Plus, we've talked about this plan eight ways to Sunday. Let‘s just do it.
-Griffin:  Let‘s just get busy! Get busy living, or get busy, you will die. You're gonna die.  [theme music plays]
+Griffin:  Let‘s just get busy! Get busy living, or get busy, you will die. You're gonna die.
+[theme music plays]
 Griffin:  Hey, everybody. It‘s your dungeon master and your best friend, Griffin McElroy. Thank you all for listening to episode 15 of The Adventure Zone. I hope you enjoyed the unraveling of the mystery. I saw a bunch of folks online get some of the parts of it right. I don't know that I ever saw anybody completely nail it. I guess it was a little bit convoluted, looking back on it, but aren‘t all the best mysteries almost completely incomprehensible? No.  This episode of The Adventure Zone is sponsored by Nature Box. Nature Box is your official online source for delicious, healthy snacks. All their snacks are made with zero artificial flavors, colors, or sweeteners, zero grams trans fats, and no high fructose corn syrup. You can grab mini Belgian waffles, strawberry lemonade fruit stars, and sweet and salty nut medley. I hadn‘t read this. I'm reading this now, and I hadn‘t read it, and these are new, and I'm very, very excited about the potential of mini Belgian waffles. Of course! They're perfect. Make them smaller. Of course!   Right now, if you go to NatureBox.com/Adventure, you can get a free trial box of their favorite snacks. If you're gathered around the table playing D&D, maybe you're playing it for the first time, maybe we inspired you, maybe the wind beneath your wings, that‘s fine. But we can't be the crunch in your mouth. Nature Box can be that for you, though. Go to NatureBox.com/Adventure, get your free box of trial snacks. I have a personal message here for Ben, and it‘s from Grace. And Grace says to Ben, ―Happy anniversary, sweetman!‖ Or... maybe I put the emphasis on the wrong word there. Let me try again. ―Happy anniversary, sweet man!‖ That didn‘t make sense. ―Thank you for putting up with my lack of competition in strategy games, inability to understand song lyrics, and impromptu dance parties. I'm looking forward to what the next few years will bring. My wheat is your wheat.‖ Uh, that‘s very sweet. I don't know if that‘s a Catan reference at the end? We've been talking about doing an all Catan podcast, where instead of playing Dungeons & Dragons, it‘s just Catan. So every episode‘s gonna be really, really similar. A lot of sheep slingin‘. Um, but happy anniversary, you sweet, sweet man.  Thank you all for listening to and sharing The Adventure Zone. Remember, whenever we start a new chapter and introduce some new characters into the story, we pull from uh, Twitter mentions, using the hash tag, #TheZoneCast, uh, to pick up on some names, like Jenkins, and Angus McDonald, and uh, all kinds of folks. Those are all named after people on Twitter. Just use the hash tag, #TheZoneCast, and talk about the show, and you may end up in the game. If you haven‘t, uh, already listened to the other shows on the Maximum Fun network, you should go give them a swing. Go give them a try. I guarantee, you will find at least six shows on the network that you really enjoy. Maybe it‘s gonna be Rendered. Maybe it‘s gonna be Stop Podcasting Yourself. Maybe it‘s gonna be Judge John Hodgman. Maybe it‘s gonna be Throwing Shade. I don't know. I don‘t live in your brain and I don't know your comedy preferences. But go to MaximumFun.org and uh, just have a poke around. It‘s all free, and you're gonna love it. That‘s all the advertisements I have for this week. Thank you all for listening to this week‘s episode. Let‘s get back into it for the second half of this episode, which I will title, the part with the idiotic train stunt. The next episode is gonna go up on June 4th. We already recorded it, and it turned out pretty great. I'm really excited about that one. So, June 4th will be the next one, so I will see y‘all then.
 [theme music plays]
 Griffin:  You are all gathered around a table in the dining car, where Graham has unfurled a map of the train route.
