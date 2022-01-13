@@ -11,9 +11,9 @@ Each file corresponds to a single episode of the podcast. Seasons of the podcast
 
 The repository is not yet complete. I will update it as I complete each arc of the show. I plan to start with just the Balance campaign, but will likely continue to update with Amnesty, Graduation and Ethersea.
 
-### The Balance Season
+### The Balance Season - Complete
 
-Stored in the "balance" folder.
+Stored in the "balance" folder. See the "taz_balance_eps.tsv" file for meta data related to each Balance episode, not including live shows.
 1. Here there be Gerblins - Complete
 2. Moonlighting - Complete
 3. Murder on the Rockport Limited - Complete
