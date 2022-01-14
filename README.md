@@ -36,3 +36,7 @@ I've provided this data with the hope that it would be fun for others. That said
 ## Final Note
 
 The text files were created by first scraping HTML files and then editing by hand. As such there is the chance for small errors. If I detect any, I will update the files with those errors fixed. Thanks for your understanding!
+
+## Thanks
+
+Thanks to Eliot McKinley, https://twitter.com/etmckinley, for his helping identifying typos and inconsistencies!
