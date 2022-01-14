@@ -9,7 +9,7 @@ Merle: Have you heard the word of Pan today?
 Cassidy: No, what’s a pan?
 Griffin: It is an explosion. You see smoke coming through the windows of the bank, as the clock strikes noon. And you’re being crushed by the shattered earth as it compresses down into the ground, and all three of you have died. And you see that old woman again.
 Old Woman: Oh, you’ll have to do much better than that, loves.
-Announcer: Okay, campers, rise and shine. And don’t forget your booties, ‘cause it’s cold out there today. It’s The Adventure Zone! [Theme music Déjà Vu by Mort Garson]
+TAZ Announcer: Okay, campers, rise and shine. And don’t forget your booties, ‘cause it’s cold out there today. It’s The Adventure Zone! [Theme music Déjà Vu by Mort Garson]
 Griffin: You wake up. And you’re not dead. Anymore.
 Justin: Hooray!
 Travis: Yay, we did it!
@@ -648,7 +648,7 @@ Clint: I scurry after her, I’m just not a good wall-climber.
 Griffin: Okay, that’s fair. There’s a gate that you can see. It’s not walls all the way around. In fact, the road out of town actually dead-ends at this gate. It’s as tall as the rest of the wall and as thick as the rest of the wall, but it has a large metal padlock on it.
 Clint: Okay. I walk up to that padlock and pull out the Nitpicker.
 Griffin: Okay. Yeah, you drop the Nitpicker— what did we name the Nitpicker? Anybody remember? Probably not. You put the Nitpicker down and it animates and comes to life and says,
-Nitpicker: Where’s your dumb friends?
+Nitpicker/Ernest: Where’s your dumb friends?
 Travis: Uh, Bud.
 Griffin: Bud! That’s right.
 Travis: But Nitpicker insists that his name is Ernest.

@@ -11,7 +11,7 @@ Clint: He was in a loveless marriage.
 Griffin: Oh, interesting. All right...
 Clint: We were beach dwarves, we lived on the beach... we had a, you would call it a cottage, but to us it was home.
 Griffin: Magnus, you pop it open and unfurl it. You can see what’s on it but when you try to draw conclusions based on what you see, when you try to understand what it is you’re seeing, your mind turns to static. This figure in this red robe is you.
-Announcer: Ha! Bet you goobers didn’t see that one coming! What other tasty twists and turns await you in... The Adventure Zone! [THEME MUSIC “Déjà Vu” by Mort Garson (full song on YouTube)]
+TAZ Announcer: Ha! Bet you goobers didn’t see that one coming! What other tasty twists and turns await you in... The Adventure Zone! [THEME MUSIC “Déjà Vu” by Mort Garson (full song on YouTube)]
 Griffin: [“A Lunar Interlude” by Griffin McElroy starts playing] So, Taako, that night in your dormitory that we kind of ended the last episode with, you had a nice long discussion with Kravitz, who, for those of you who are maybe skipping ahead, or don’t remember because it’s been 7 months since Kravitz was on the show, is a bounty hunter for the Raven Queen, who’s the goddess of the natural passage of life and death. So you had this conversation with Kravitz in your dormitory for a good long time, and he seemed much less aggressive than he did when you encountered him in Lucas’s lab, where he, you know, was mostly trying to kill you. He sort of sat patiently while you explained the events of your time in Refuge. But— so you’re having this conversation with him and explaining what happened in Refuge, and he sort of explained like, you’re kind of— you guys are in trouble, obviously, because you’ve added to your death count which he’s not a fan of, but everyone in Refuge also died, like, a lot, during those loops, and somebody has to answer for that. But your discussion was cut short when Kravitz was summoned to hunt another bounty for the Raven Queen. But before leaving, he attuned your Stone of Farspeech to his own, and told you that he would reach out again to continue your conversation about what should happen to you all, and to everybody in Refuge. But you, Taako, decide to take the initiative in setting up the next meeting with Kravitz, and you’re kind of hoping to sway him to your way of thinking, to sort of save you guys and everybody in Refuge from getting sort of your... your comeuppance. So my question to you is, what do you do with Kravitz? What sort of hang sesh do you set up with Kravitz when you contact him?
 Justin: Um... let’s see. I don’t wanna seem too eager...
 Griffin: Right, that’s important.
@@ -240,8 +240,7 @@ Griffin: [laughs] Okay. So you all have like, a nice day in the park, and it’s
 Angus: Sir, I know it’s none of my business, but I’m— I’m curious why you haven’t told anybody about your kids.
 Merle: Um... Angus, I was a really crappy dad, and I was an even crappier husband. And, you know, one of my biggest shames is that I kind of left ’em in the lurch, and I’ve been... [sighs] Now that I’ve come into a little bit of dough, I’ve kind of, you know, been trying to rebuild my relationship with the kids, and, you know, I’d— I don’t want everybody to think I was a complete and total shithead. Oh, I’m sorry, poophead.
 Angus: Oh, you can swear in front of me.
-Merle: Oh, shit, thank God. So... y’know, I didn’t want them to know what a turd I was, but I really... [emotional] you know, Pan has really helped me turn my life around.
-Both: [laughing]
+Merle: Oh, shit, thank God. So... y’know, I didn’t want them to know what a turd I was, but I really... [emotional] you know, Pan has really helped me turn my life around. [laughing]
 Merle: I’m a new man. I’m a new man, in Pan.
 Griffin: He says, uh
 Angus: You know, just watching you all day, it’s just... I don’t think you have anything to worry about. I think you’re... I think you’re gonna be a good dad, from here on out.
@@ -396,7 +395,9 @@ Travis: I’ve got an apartment.
 Griffin: All right, congrats, Trav!
 Clint: Way to go, bud.
 Griffin: All right, let’s, we have to get back into the game.
-Various: Yeah, please.
+Justin: Yeah, please.
+Travis: Yeah, please.
+Clint: Yeah, please.
 Justin: My character sheet says I’m level 10, is that right?
 Griffin: Yeah, you are now, and we’re gonna get to that.
 Justin: No no no, we were level 10 [crosstalk]
