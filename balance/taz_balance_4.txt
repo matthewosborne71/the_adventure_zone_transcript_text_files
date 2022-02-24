@@ -126,25 +126,25 @@ Griffin: And she has this crossbow leveled on you. She is totally, totally ready
 Merle: Easy, Magnus...
 Magnus: Hello! [Clint laughs]
 Griffin: She’s just sorta sitting there like... you hear her go like,
-Orc woman: [Quietly] Ah, shit.
+Killian: [Quietly] Ah, shit.
 Justin: In Orc-ish, I’m assuming, or in Common, or...?
 Griffin: She’s speaking in Common, yeah.
 Justin: Excellent. Uh—
 Travis: I bow deeply to her.
 Justin: I say,
 Taako: Hail and well met!
-Orc woman: Shh, give me— shh, shh. Shhh!
+Killian: Shh, give me— shh, shh. Shhh!
 Justin: And then I think about, ugh, kinda cliche.
-Orc woman: Sorry, just give me one second, I’m trying to...
+Killian: Sorry, just give me one second, I’m trying to...
 Griffin: This is her speaking,
-Orc woman: Uhh... I’m trying to figure this out.
+Killian: Uhh... I’m trying to figure this out.
 Magnus: Is it a math problem?
-Orc woman: [Pause] No, it’s, uh... I’m just— I just can’t understand why other people would be here, I’m trying to figure out... whether to just kill you guys right away, I don’t have a lot of time... I don’t— I don’t like collateral damage, I’m not— it does not reflect upon me very well, I’m just trying to crack the, uhh. Crack the code of how other people could be... here.
+Killian: [Pause] No, it’s, uh... I’m just— I just can’t understand why other people would be here, I’m trying to figure out... whether to just kill you guys right away, I don’t have a lot of time... I don’t— I don’t like collateral damage, I’m not— it does not reflect upon me very well, I’m just trying to crack the, uhh. Crack the code of how other people could be... here.
 Justin: Well—
 Clint: May I say something?
 Griffin: You can do whatever you want.
 Merle: Have you heard the word of Marthammor Duin today?
-Orc woman: What’s that?
+Killian: What’s that?
 Clint: And offer a Watch Tower. [Justin snorts]
 Clint: Okay, um—
 Griffin: [Close to laughing] What d’you mean?
@@ -152,31 +152,31 @@ Justin: Dad’s witnessing. [Travis laughs]
 Griffin: You’re spreading the good news of Marthammor Duin? [Justin laughs]
 Clint: Yeah!
 Justin: [Still laughing] Great opportunity!
-Orc woman: Uhh, no thank you, I’m... spoken for. Um. Okay. Here’s this, here’s the best offer I can make you, um... I’m going to ask you guys a question...
+Killian: Uhh, no thank you, I’m... spoken for. Um. Okay. Here’s this, here’s the best offer I can make you, um... I’m going to ask you guys a question...
 Magnus: Okay...
-Orc woman: You seem like good— good people. Uh, and—
+Killian: You seem like good— good people. Uh, and—
 Magnus: Is it a riddle?
-Orc woman: It might be, depending on sort of where you’re at.
+Killian: It might be, depending on sort of where you’re at.
 Magnus: I love riddles.
-Orc woman: Great.
+Killian: Great.
 Griffin: Is this your character “development”?
 Travis: Yeah. [Clint laughs]
 Justin: Griffin, when you said development just now, were there air quotes? Just want to make sure. [Travis laughs]
 Griffin: Yeah, sure.
-Orc woman: Depending on your answer to this question, it’s gonna decide, I guess what happens next.
+Killian: Depending on your answer to this question, it’s gonna decide, I guess what happens next.
 Magnus: Oh, like a Choose Your Own Adventure!
-Orc woman: Sort of, sure. Only... if, like, 90 percent of the pages were, “You died.”
+Killian: Sort of, sure. Only... if, like, 90 percent of the pages were, “You died.”
 Magnus: Ohh, like you end up at the yeti?
-Orc woman: Yeah, this uh, this could be a yeti-page situation.
+Killian: Yeah, this uh, this could be a yeti-page situation.
 Magnus: Okay, question on!
-Orc woman: Are you here... for the [static noise]?
+Killian: Are you here... for the [static noise]?
 Magnus: Uh... did you have something stuck in your throat, like a hair or something?
 Merle: Ah, wait, wait, I can— we are not [imitating static noise] hunters.
-Orc woman: Okay, so... I just heard like a crackly thing, which actually tells me everything you need to know. Uh, okay, you’re not here for the [static noise] and that’s great news for me, but I cannot have you guys getting in my way. So here’s my solution and I think you’re gonna find it very equitable I’m not going to shoot you with this giant crossbow.
+Killian: Okay, so... I just heard like a crackly thing, which actually tells me everything you need to know. Uh, okay, you’re not here for the [static noise] and that’s great news for me, but I cannot have you guys getting in my way. So here’s my solution and I think you’re gonna find it very equitable I’m not going to shoot you with this giant crossbow.
 Magnus: Great.
 Taako: I’m... I’m for. [Clint laughs]
 Taako: Go on.
-Orc woman: Instead...
+Killian: Instead...
 Griffin: She reaches into her pocket and pulls out a small, sort of handheld... I don’t know, it looks like a game show buzzer and she clicks it down with her thumb and a ball of light emits from it and shoots into the air and very quickly zaps the crusher in the middle of the room,
 Travis: Mmhm.
 Griffin: the wheels of which begin to spin. The rollers, the crushers inside begin to activate, and then the crusher itself seems to move. It seems to animate, as if it has just been brought to life beyond its normal mechanical capabilities, and it’s causing quite a clatter and quite a racket, and when you look up from it the orc woman is gone and has taken the ladder with her, it looks like.
@@ -255,7 +255,7 @@ Travis: Kudos all around, gentlemen.
 Griffin: Yeah that was a— that was a very quick grinder battle.
 Justin: But I wanna make a perception check—
 Travis: [Laughing] The orc woman leans back in to go “I was like— Oh, shit.”
-Orc woman: Oh shit, okay.
+Killian: Oh shit, okay.
 Justin: I wanna make a perception check to see if the idea of, like, what I was thinking about what would have happened to us if we had gotten caught in that. I wanna make a perception check to see if, the concept of ground meat would occur to me.
 Griffin: You...
 Clint: That’s justified.
@@ -342,12 +342,12 @@ Griffin: You go through the door and you realize that it’s actually a dragon�
 Justin: Woah!
 Clint: High adventure!
 Griffin: You go through that door, you’re going down a stonewrought hallway. This was obviously not carved out by a mine. This is a— this was not carved out by mining equipment, I should say. This is like a hallway that you would find in a building... made of stone, I guess. And you hear reverberating down the walls, the sound of clanging, of metal, the telltale sounds of combat. And then you hear the woman— the orc woman that you encountered earlier, yell,
-Orc woman: Uh, help!
+Killian: Uh, help!
 Travis: Oh, sure. Yep, you got it.
 Justin: I shout out,
 Taako: Eat a big’un!
 Travis: [Laughs] God helps those who help themselves!
-Orc woman: Could use a hand down here... it’s uh... come on.
+Killian: Could use a hand down here... it’s uh... come on.
 Travis: Okay, I run down there.
 Griffin: Okay. Foolhardily?
 Travis: Yeah. [Laughter]
@@ -566,7 +566,7 @@ Justin: Okay.
 Griffin: So yeah, if that’s how you’re spending your action.
 Justin: That is how I’m spending my action.
 Griffin: Cool. You burn away the webs. She collapses to the ground but gets back up to her knees. She is conscious, and she looks at you sort of quizzically again. She doesn’t know why you have done her this solid, but she says,
-Orc Woman: Wow, thanks!
+Killian: Wow, thanks!
 Justin: Does she still have any sort of weapon as far as I can see?
 Clint: Like the thing with the big button on it?
 Justin: Or her crossbow? Is her crossbow gone or?
@@ -649,9 +649,9 @@ Clint: [Sighs]
 Justin: Great, great afternoon so far.
 Clint: [Disgruntled] Man, yeah, I guess.
 Griffin: Next in the order is the orc woman, who reaches into her pocket, pulls out that buzzer, and says,
-Orc woman: Here goes nothin’!
+Killian: Here goes nothin’!
 Griffin: and a, another ball of energy pops out of it and flies through the giant door.
-Orc woman: Oh! Hm. Okay.
+Killian: Oh! Hm. Okay.
 Griffin: And then you hear an extremely loud pound at that door. It’s actually, like, a few rapid-fire poundings. Sorry again for this very sexual language. It’s very rapid fire, like [short knocking on a wooden surface] against the door.
 Clint: Like Sheldon, on Bigg Bang.
 Griffin: Come on, you can’t keep referencing Big Bang Theory during this podcast!
@@ -662,7 +662,7 @@ Griffin: Keep calling her “the orc woman”?
 Justin: Yes.
 Griffin: Yeah, that’s fine.
 Taako: What’s your name, dear?
-Orc woman: My name is Killian. Uh, nice to meet you. Can we do the spider stuff now? [Laughter]
+Killian: My name is Killian. Uh, nice to meet you. Can we do the spider stuff now? [Laughter]
 Clint: Does it take an action—
 Killian: Tell me about— no, come on, now that we’re into this, tell me about your dad. Is that what you wanna do right now? With the double spider situation?
 Clint: Can we open the door as a free action?
