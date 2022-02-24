@@ -1,13 +1,13 @@
 Griffin: Previously, on The Adventure Zone [Recap music begins playing in the background]
-The Director: To be frank, I don’t know what’s waiting for you on this mission, but I know what’s waiting for you at the end of it.
+Lucretia: To be frank, I don’t know what’s waiting for you on this mission, but I know what’s waiting for you at the end of it.
 Magnus: Hugs?
-The Director: It’s the fifth Grand Relic. The Temporal Chalice [pronounced with a soft “ch” sound]. Or Chalice [pronounced with a hard “ch” sound], depending on just sort of what region you’re from. It is a cup that gives the holder power over the flow of time itself.
+Lucretia: It’s the fifth Grand Relic. The Temporal Chalice [pronounced with a soft “ch” sound]. Or Chalice [pronounced with a hard “ch” sound], depending on just sort of what region you’re from. It is a cup that gives the holder power over the flow of time itself.
 Griffin: You are now in front of this massive, massive— it is a sphere but to you it just looks like a dome on the ground that is reaching high, high up into the sky.
 Avi: You guys ready?
 Taako: Yes.
 Avi: Okay... mark!
 Griffin: Boys, you go very fast. And standing in this white space in front of you is a very old woman.
-Old Woman: Find me. [Intro music]
+June: Find me. [Intro music]
 TAZ Announcer: If that old lady is some sort of spooky ghost, I’m out of here. I need a ghost-free guarantee if I’m going to stay in... The Adventure Zone! [Theme music Déjà Vu by Mort Garson]
 Griffin: Boys, I have a sickness. Got an illness in this episode.
 Travis: And the only cure is more cowbell!
@@ -77,17 +77,17 @@ Travis: I know, but like, but like, I haven’t gotten to do my rustic hospitali
 Griffin: Yeah, very Tom Sawyer sort of economy.
 Travis: I haven’t gotten to do it, I've got like a down-home real charm.
 Griffin: This thing says,
-Bird: Hello, visitors! Please identify yourselves.
+Roswell: Hello, visitors! Please identify yourselves.
 Griffin: Kinda sounds like Angus, let me give that another shot.
 Travis: Okay.
-Bird: [Now in a higher-pitched voice] Hello, visitors! Please identify yourselves.
+Roswell: [Now in a higher-pitched voice] Hello, visitors! Please identify yourselves.
 Travis: More! That was more Angus.
 Griffin: No, it sounds kind of like Angus. It’s not Angus, it just this— has a high voice ‘cause it’s a little bird talking, supposedly, it seems like it’s kind of talking for this armored thing.
 Travis: Gotcha.
 Magnus: Hail and well met, bird friend!
-Bird: Hello. Please identify yourselves.
+Roswell: Hello. Please identify yourselves.
 Magnus: Uh, I’m Magnus Burnsides [pronounced similar to “birdsides”].
-Bird: Was that a bird joke?
+Roswell: Was that a bird joke?
 Magnus: No, that was I have a stuffy nose.
 Justin: Can we talk about the insane leap that Travis just made that he would address the bird?
 Griffin: Yeah.
@@ -100,34 +100,34 @@ Travis: The bird did!
 Clint: You know he has a something proficiency.
 Travis: The bird said, “Please identify yourselves.”
 Justin: Okay.
-Bird: Who are your two friends?
+Roswell: Who are your two friends?
 Magnus: Well, this is Taako the wizard.
 Taako: Word. Word.
 Magnus: And this is Merle Highchurch, the... cleric?
 Merle: How’s it going, bird?
-Bird: Um, I’m not— this is confusing. I— please, I need you all to please stay calm and don’t make any sudden movements.
+Roswell: Um, I’m not— this is confusing. I— please, I need you all to please stay calm and don’t make any sudden movements.
 Taako: Okay.
 Merle: Yeah, we’re good at that.
 Magnus: You got it.
-Bird: It’s been a while since we’ve had new visitors here. How did you find your way into our small town?
+Roswell: It’s been a while since we’ve had new visitors here. How did you find your way into our small town?
 Taako: We got lost.
-Bird: That’s...
+Roswell: That’s...
 Taako: Along the way.
-Bird: That’s...
+Roswell: That’s...
 Taako: To somewhere else. And now we’re here.
-Bird: You just got lost and stumbled in.
+Roswell: You just got lost and stumbled in.
 Taako: Ehhh, I mean... Does that make sense to you?
 Merle: Is that something that’ll keep us from getting killed?
 Taako: Yeah!
-Bird: It doesn’t make a lot of sense. People don’t usually come here unless they’re brought here.
+Roswell: It doesn’t make a lot of sense. People don’t usually come here unless they’re brought here.
 Magnus: Well, like, metaphysically lost, hm?
 Taako: Mmm, spiritually? Yeah?
-Bird: Well, I guess—
+Roswell: Well, I guess—
 Merle: Geographically?
-Bird: What is your intention?
+Roswell: What is your intention?
 Magnus: We’re here to help.
 Merle: Yeah.
-Bird: Help with— help with what?
+Roswell: Help with— help with what?
 Merle: Your problem! The big, big problem.
 Magnus: You got trouble. Right here in Bubble City.
 Griffin: Um... why don’t—
@@ -138,16 +138,16 @@ Griffin: Not on every check because this isn’t really a— this person’s not
 Travis: [Dice roll] That’s a 17, plus... charisma?
 Griffin: Okay.
 Travis: Plus one. So that’s 18.
-Bird: So just to get the story straight, you guys saw a big bubble and you just walked right into it?
+Roswell: So just to get the story straight, you guys saw a big bubble and you just walked right into it?
 Merle: Uh, actually we were [singing to the tune of Bon Jovi’s “You Give Love A Bad Name”] shot through the wall, and you’re to blame!
 Taako: [Singing quietly] But it’s not your fault, sorry about the mistake.
-Bird: Hmm. I’m gonna make a command decision here and I think we should wait to sort of let you guys, y’know, run around free until you’ve been checked out by Sheriff Isaak. So if you wouldn’t mind, again, just— hands at the sides, um, don’t— just stay calm and come with me to the sheriff’s office. We’ll get this thing figured out.
+Roswell: Hmm. I’m gonna make a command decision here and I think we should wait to sort of let you guys, y’know, run around free until you’ve been checked out by Sheriff Isaak. So if you wouldn’t mind, again, just— hands at the sides, um, don’t— just stay calm and come with me to the sheriff’s office. We’ll get this thing figured out.
 Taako: Okay.
 Merle: Sure!
 Magnus: Sounds great.
 Taako: I have no problem with that.
 Merle: Are there refreshments?
-Bird: Um, there can be?
+Roswell: Um, there can be?
 Taako: Great. Even better.
 Griffin: You walk into this town and it is... like I said, it is rustic chic. Parts of it are kind of shamble-y, and as you—
 Travis: In disrepair, or—
@@ -166,28 +166,28 @@ Clint: Hmm!
 Griffin: The thing that most catches your eye on this main drag... is the statue. Directly in front of this large manor at the end of the street, right in the middle of the main road, is a statue, about eight feet tall, cast from some kind of brown metal. And this statue depicts three figures. The first figure is a small human girl, maybe about seven years old, and she’s wearing a knee-length dress. Her hair is done up in a bob. She is holding hands with a large, broad, bearded human man who is wearing a miner’s helmet with a torch on it and a big flannel shirt and big bulky pants. He is dressed up like a miner, and he is holding hands with this small girl. And standing behind— both of them have, like, some crude smiles on their faces. It’s a pretty well-made statue, that you can make out facial details. Standing behind them, with one hand on each of their shoulders, is another figure, smaller than the other man, still pretty broad-shouldered. This figure standing behind them is tall and muscular, a fact that you can make out even though this figure is wearing a robe that is covering their entire face and body. And the metal of this figure where the robe is has been stained or oxidized, turning it a bright crimson red. [Eerie background noise]
 Travis: Oh! Like the bad guys.
 Magnus: Harvey Birdman.
-Bird: Um, I’m not— okay, I’m not a bird. Just— okay, yeah, what is it?
+Roswell: Um, I’m not— okay, I’m not a bird. Just— okay, yeah, what is it?
 Magnus: What? Yes you are.
-Bird: Okay, what’s going on?
+Roswell: Okay, what’s going on?
 Magnus: That’s a beautiful statue, I’m struck by the brilliant red of the robe. What is it depicting, if you don’t mind me asking?
-Bird: Well, that’s— that depicts a very important event in our town’s history. That’s the Visitor, who came and brought the Father and Daughter to our town. And by their sacrifice, our home is made safe.
+Roswell: Well, that’s— that depicts a very important event in our town’s history. That’s the Visitor, who came and brought the Father and Daughter to our town. And by their sacrifice, our home is made safe.
 Magnus: Okay.
 Merle: Aw, just like is written on the gate!
-Bird: Yeah, kind of our— yeah, that’s our thing.
+Roswell: Yeah, kind of our— yeah, that’s our thing.
 Magnus: And how long ago did this sacrifice happen?
-Bird: The sacrifice happened about a year and a half ago.
+Roswell: The sacrifice happened about a year and a half ago.
 Merle: So was the guy in the robe real ugly or something, is that why they, you know, like, can’t see his face or anything like that?
-Bird: Nobody really saw the figure in the robe except for Sheriff Isaak, so I don’t know. I’ve heard tell that he was big and broad and strong— I shouldn’t say “he,” I don’t even know. But whatever they were, they were big and strong.
+Roswell: Nobody really saw the figure in the robe except for Sheriff Isaak, so I don’t know. I’ve heard tell that he was big and broad and strong— I shouldn’t say “he,” I don’t even know. But whatever they were, they were big and strong.
 Taako: What sort of danger were you in that he needed to save you?
-Bird: Well, the danger of... you know, the world. I really shouldn’t— [Eerie background noise stops]
-Bird: I don’t know you guys— this is uncomfortable. I really shouldn’t— I don’t know what you guys want, I don’t really know your intentions.
+Roswell: Well, the danger of... you know, the world. I really shouldn’t— [Eerie background noise stops]
+Roswell: I don’t know you guys— this is uncomfortable. I really shouldn’t— I don’t know what you guys want, I don’t really know your intentions.
 Magnus: Sandwich.
-Bird: Okay. Well, we can take care of that at the sheriff’s office.
+Roswell: Okay. Well, we can take care of that at the sheriff’s office.
 Magnus: Cool.
 Griffin: He walks you into the sheriff’s office. As you walk in, you do see a few jail cells down on the far side of the room, and you see a big desk with a big, big, big chair behind it. Big, sturdy chair. In fact, you see a few smaller, broken chairs kind of piled up in the back corner of the room that have apparently been crushed underneath this being’s girth. And he says,
-Bird: Sorry, we don’t really, um... I don’t wanna lock you guys in a cell ‘cause I— because you haven’t really done anything wrong, so to speak. Can I trust you to just hang out here and not do anything?
+Roswell: Sorry, we don’t really, um... I don’t wanna lock you guys in a cell ‘cause I— because you haven’t really done anything wrong, so to speak. Can I trust you to just hang out here and not do anything?
 Magnus: Yeah, do you want me to fix those chairs?
-Bird: That would be wonderful!
+Roswell: That would be wonderful!
 Magnus: Okay, great.
 Justin: I’m gonna do I guess an investigation, or perhaps perception— I’m gonna say investigation, on the armor and the bird to see if I can figure out what the sort of relationship is there.
 Griffin: Okay.
@@ -214,7 +214,7 @@ Griffin: Or ask it. That’s why— when you meet a person, sometimes you say, l
 Justin: Okay.
 Griffin: Come on, rude boys. Come and give it up.
 Taako: Homer, what’s your name?
-Bird: Uh, I’m called Roswell.
+Roswell: Uh, I’m called Roswell.
 Taako: Ooh, great. Roswell, are you— is Roswell the name of you, the bird, or the big fella that you’re riding on?
 Roswell: I don’t see why it’s important that you distinguish between the two.
 Taako: Okay, well, that’s fine, I’m not into labels either.
@@ -784,6 +784,6 @@ Justin: Taako’s—
 Clint: Well!
 Justin: Good run. [Clint laughing] [Eerie background music begins]
 Griffin: And there’s something about the dying that feels familiar. And then you’re back in that white space, and you see that old woman again. And she says,
-Old Woman: Oh, you’ll have to do much better than that, loves.
+June: Oh, you’ll have to do much better than that, loves.
 Griffin: And then you wake up. [Travis, Clint, and Justin start clapping and laughing]
 Clint: Aw. Awesome! [Music fades out, episode ends]

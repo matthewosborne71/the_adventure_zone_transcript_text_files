@@ -68,7 +68,7 @@ Griffin: Dos— Dos Lonely Boys. It really is this time.
 Justin: We’re actually gonna go by Dos Equis now. The two horses.
 Clint: Oh, that’s good! That’s good!
 Griffin: Alright! You walk in and you see... um, you do see the Director and she is standing in front of the big window looking into the, uh, the relic destruction chamber. That sort of big Cerebro shaped room. And she is looking in and Davenport is in here as well with— with the two guards. And sort of standing kind of to the side and a little bit behind the Director, also looking in, you see Angus McDonald, boy detective, who... He looks, he doesn’t actually look at you, as you walk into the room? He’s just kind of looking into the chamber, sort of not distracted at all. But the Director does look over, when she sees the two of you walk in. And she says, she starts to walk towards you and kind of stops, because she doesn’t really wanna abandon her post, she wants to make sure this thing goes through, but she says,
-The Director: Taako, Merle, my God, I’m— I’m so sorry about Magnus. I— I knew there would be some risks sending you into Wonderland but I— I’m so sorry, if I had thought that you couldn’t take it, I wouldn’t have done it. I’m so sorry.
+Lucretia: Taako, Merle, my God, I’m— I’m so sorry about Magnus. I— I knew there would be some risks sending you into Wonderland but I— I’m so sorry, if I had thought that you couldn’t take it, I wouldn’t have done it. I’m so sorry.
 Justin: I’m going to... [clears throat] I’m gonna cast Detect Thoughts. It’s a second-level divimination... [Clint and Griffin giggling]
 Travis: Nice, nailed it, got it in one!
 Clint: Isn’t it fun? [gibberish]
@@ -90,7 +90,7 @@ Justin: No, I’m just gonna— [laughing] she will win that contest of wills, I
 Griffin: Alright. So yeah, those two things you get and there’s no penalty. You know that she’s happy to see you, sad about Magnus, and worried about something.
 Justin: Yeah, okay.
 Merle: Lucretia, I have a favor to ask. I know you're right in the middle of this stuff but, um, you know, we were thinking of havin’... kind of a little memorial service for Maggie.
-The Director: Well that would be appropriate— we will— I mean, we will have to do the rites of remembrance.
+Lucretia: Well that would be appropriate— we will— I mean, we will have to do the rites of remembrance.
 Merle: [crosstalk] I know, well, sure, I'm thinkin’ of somethin’ a little bit more personal, you know? Over the last few months...? Episodes? Um...
 Taako: Arcs! The last few arcs.
 Merle: Last few arcs, the three of us have gotten really tight and you know, a lot of our best memories were forged together, just the three of us, in your office. And so I was thinkin’, you know, hearkening back to the last time we were... [voice breaks] together...
@@ -103,10 +103,10 @@ Merle: And chopped off... my arm... and if you could just give us this, please, 
 Justin: This is, this is in-game
 Taako: Hell yeah! What he said for sure!
 Merle: Yeah.
-The Director: I know that the two of you have had a truly awful day and of course—
+Lucretia: I know that the two of you have had a truly awful day and of course—
 Merle: Thanks, I’m glad you understand!
 Taako: [fake crying] Thank you for understanding!
-The Director: Go wait— go wait in my office, I have some finger sandwiches in there and we can all sort of... um, come down a little bit and we’ll figure out... we’ll figure out a good way to send off our good friend Magnus. I do have some work to take care of first, but you go in there and...
+Lucretia: Go wait— go wait in my office, I have some finger sandwiches in there and we can all sort of... um, come down a little bit and we’ll figure out... we’ll figure out a good way to send off our good friend Magnus. I do have some work to take care of first, but you go in there and...
 Merle: You take care of that and thank you, that’s from the bottom of my heart. [sniffling]
 Griffin: Okay, so she gives you—
 Justin: I think she said she’s gonna take care of it in her office with us in there?
@@ -135,9 +135,9 @@ Justin: I’m opening up the pocket spa and whispering into it like in fuckin’
 Clint: [laughing]
 Griffin: You hear him shout from far away, you hear him shout from far away—
 Clint: Hello, master!
-Barry: Yeah, yeah, can I get out of here? It’s a lil’ cramped.
+Barry Bluejeans: Yeah, yeah, can I get out of here? It’s a lil’ cramped.
 Taako: No! What’re we looking for?
-Barry: Uh, I have no idea? I’m— this— I— I— I don’t remember—
+Barry Bluejeans: Uh, I have no idea? I’m— this— I— I— I don’t remember—
 Justin: All of a sudden he’s muffled, [muffled noises] ‘cause I closed the fuckin’ Pocket Spa and put it back in my bag.
 Clint: What a douche.
 Taako: Okay, well, no help from Barry.
@@ -166,14 +166,14 @@ Taako: Okay, Merle, let’s talk super quick what do you think? Should we do thi
 Merle: [sighs]
 Justin: I’ll open the Pocket Spa back up.
 Taako: Barold?
-Barry: [grumpily] Hey!
+Barry Bluejeans: [grumpily] Hey!
 Taako: Hey, listen. And think hard before you answer. We’ve been, uh, fighting alongside the Bureau of Balance for a long time, none of us can exactly agree on how long, but it’s been a while.
 Griffin: A little over a year.
 Taako: I need you to tell me, in a sentence, why we should trust you,  and turn against the Bureau.
-Barry: Um... I don’t— I don’t think I’m evil? Like, I don’t think I’m an evil guy? I don’t— obviously there’s like, some pretty big holes in the ol’ Barry— Barry story, I got the ol’ swiss cheese brain, but, like, I don’t—
+Barry Bluejeans: Um... I don’t— I don’t think I’m evil? Like, I don’t think I’m an evil guy? I don’t— obviously there’s like, some pretty big holes in the ol’ Barry— Barry story, I got the ol’ swiss cheese brain, but, like, I don’t—
 Taako: You have veered off sentence and are hurtling towards paragraph, my friend. Ah sentence, please. Time is of the essence. And I think you need this worse than we do.
 Griffin: He says, he says
-Barry: I don’t know, but I feel like I trust you. [“Reunion Tour” by Griffin McElroy plays]
+Barry Bluejeans: I don’t know, but I feel like I trust you. [“Reunion Tour” by Griffin McElroy plays]
 Griffin: Um, Magnus, you are walking out of the abandoned Fantasy Costco. Can you confirm, in the last episode, you said you grabbed your old shield and old axe and you left, like, sort of all of your other belongings for flesh Magnus? Right?
 Travis: Correct.
 Griffin: Okay. You walk out of this abandoned Fantasy Costco—
@@ -434,7 +434,7 @@ Taako: He invented Zone of Truth, this guy.
 Merle: I am Mr. Zone of Truth!
 Travis: To be fair, you should make a third roll.
 Griffin: Taako— yes— Taako, you hear from inside your bag somebody say
-Barry: Ay, I'm hidin’ in this guy’s bag and I'm gettin’ kinda claustrophobic and also I'm not supposed to be up here!
+Barry Bluejeans: Ay, I'm hidin’ in this guy’s bag and I'm gettin’ kinda claustrophobic and also I'm not supposed to be up here!
 Taako: Oh, shit.
 Griffin: And actually, like, Barry’s head is popping out of your bag now as he starts to like, like— [Clint laughs]
 Griffin: —get out of— get out of the bag.
@@ -652,7 +652,7 @@ Angus: Woah, a little baby Voidfish! How cute!
 Griffin: And he starts, like, tapping on the glass.
 Travis: Whoa, don’t do that. Come on, kid.
 Griffin: And the baby Voidfish, like, holds up a little tendril up to the glass, too. Barry, it seems like, is... like somebody just hit him in the head with a fucking hammer. Like, he is just holding his head now and sort of shaking it back and forth. And he’s, like, down on the ground. And Taako and Merle, you both feel like— you know how you feel like when you’ve got a cold just starting? Like, you can feel this cold coming on, you know it’s gonna fuck you up? Or, like, you know that you ate too much and like, “oh, boy, I'm gonna be sick tonight.” Like, you feel this... you feel something big coming at your brains, that is, like, it’s— it’s— it makes your gut run kinda cold. And Barry is, like, uh, Barry says, like,
-Barry: Boys, don’t— don’t try to remember too fast, it’s— it’s— it’ll take you out. M-Merle, can you do somethin’ about that holy symbol, please, before, before—
+Barry Bluejeans: Boys, don’t— don’t try to remember too fast, it’s— it’s— it’ll take you out. M-Merle, can you do somethin’ about that holy symbol, please, before, before—
 Griffin: And you hear feet marching towards you down the— down the hallway, um, as people respond to the sound of the alarm that went off.
 Clint: Hhhh— yep! I cast Divination.
 Griffin: Okay.
@@ -689,7 +689,7 @@ Justin: You have no powers.
 Griffin: But you just don’t have any powers at all. Now, I will tell you with that Religion check you made, because it was a 20 and like, really really good, you detect that there’s no, like, traps here. There’s no like— you’re not gonna be fuckin’ destroyed if you go grab this thing. And actually, you recognize that— the disc that it’s floating over is kind of like the thing that is powering this— this spell? Well, the divine symbol’s the thing powering the spell, but the disc is like what is sort of keeping it active.
 Clint: I go grab the disc.
 Griffin: Okay. As you grab it, as you grab the divine symbol, it sort of, like, stops. You just sort of grab it from where it’s floating over this disc and you feel that spell just get sucked into the disc, that anti-lich ward, the undead ward, and it just shatters, the disc does. And the holy symbol you’re holding, you now just have. And it is a— it is a +2 holy symbol, which is cool... if you could use it to cast spells right now. But you have deactivated sort of this— this field that was keeping lich Barry out and you have a new thing for maybe someday. Um. By this time, the guards have arrived into the room. And Barry shouts,
-Barry: Boys, don’t put up a fight. It’s— things are in motion now and we just kinda gotta go with the flow, but. You’re gonna start remembering soon, but just take it slow, please, I'm begging you. You gotta take it slow. [“Pan” by Griffin McElroy starts playing]
+Barry Bluejeans: Boys, don’t put up a fight. It’s— things are in motion now and we just kinda gotta go with the flow, but. You’re gonna start remembering soon, but just take it slow, please, I'm begging you. You gotta take it slow. [“Pan” by Griffin McElroy starts playing]
 Griffin: And Angus is like,
 Angus: I don’t know what you’re talking about! I just see this Voidfish, this cute Voidfish.
 Clint: Is there a replay button on the coin?
@@ -758,19 +758,19 @@ Griffin: She launches herself at you. And she throws her arms around your neck i
 Griffin: And she says,
 Carey: Let me guess, you ignored my lessons. When there was trouble, you... well... you took the big hit. Didn’t you, bud? [music plays out]
 Griffin: The four of you, Angus and Merle and Taako and Barry, are in front of the Director and each of you kind of has a couple of guards standing nearby. Davenport is here, standing up on the dais with the Director and as you all sort of were brought into this room, Barry broke off and just sprinted towards the Director pretty— pretty, like, aggressively. But Davenport actually kinda stepped in the way, and they tussled just for, like, a second, but Barry was pulled away and placed with the rest of you.  And so the four of you are standing, now, sort of in front of the dais and up on the dais is the Director and she’s— she is surrounded by this, um, somewhat opaque, but you can see through it, magical barrier. And she’s kneeling down and right next to her is one of those lead orbs. And you actually see a little, I think, just to drive this home, there’s a little— a little white star drawn on this orb with chalk. And she’s kneeling over her white oak staff. And she’s channeling some sort of energy from the orb into the staff, which of course, was the grand relic that she made when the seven of you first came to this world. And as you realize that you just had that thought, you feel like— you feel like your brain just got fucking struck by lightning. And she looks at you as you both kind of grab your heads and she says,
-The Director: Oh my god. Did you— did you inoculate yourselves?
+Lucretia: Oh my god. Did you— did you inoculate yourselves?
 Merle: Yes. We did.
 Travis: [laughs]
 Griffin: She says,
-The Director: It’s gonna be too much, you’re gonna remember too much, it’s too— it’s too specific, you’ll be killed, why— why did you do that?
+Lucretia: It’s gonna be too much, you’re gonna remember too much, it’s too— it’s too specific, you’ll be killed, why— why did you do that?
 Merle: We’re stupid?
 Justin: [snorts]
 Griffin: Barry doesn’t seem to be having as difficult a time because, well, because every time that Barry dies and turns into a lich, he kind of remembers it again anyways? So this process isn’t quite as painful as him? And um, so he’s just standing next to you as you are sort of grabbing onto your heads and he’s looking up at the dais and um... we’ll say Taako, you’re standing next to Barry in this line, and you hear him whispering an invocation. And you can tell that he is casting the spell Command. And you hear him mutter a single word and he says,
-Barry: Drink.
+Barry Bluejeans: Drink.
 Griffin: And Lucretia says,
 Lucretia: What did you say?
 Griffin: And Barry says,
-Barry: Lucretia, you gotta help them remember. It’s over. You owe them that. You already have the relics, just help them remember. Their— their— their minds are gonna shatter if you don’t.
+Barry Bluejeans: Lucretia, you gotta help them remember. It’s over. You owe them that. You already have the relics, just help them remember. Their— their— their minds are gonna shatter if you don’t.
 Griffin: And Lucretia begins to explain. [“Reunion Tour” by Griffin McElroy starts playing]
 Griffin: And she says,
 Lucretia: Okay, listen, boys and—just try to follow along as I explain it. Don’t try to think ahead because what happens next is very important. Taako, Merle, Barry... there were seven of us. We came from— we came from another world, another reality. We were— we were members of the Institute of Planar Research and Exploration. We were an elite team of... scientists and explorers sent to— sent to explore the realities beyond our own on this impossible ship, but... something went wrong. We were— we were pursued by a destructive force beyond measure or comprehension. So, when we came to this world, the seven of us, we... we made the relics to try to hide the light that they contained from the Hunger that would consume us. But it was a mistake. We damned this world from the moment we put the relics out into it. I— and I didn’t want to create the relics, but I was...
