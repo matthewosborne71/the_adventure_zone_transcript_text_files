@@ -33,7 +33,7 @@ Stored in the "balance" folder. See the "taz_balance_eps.tsv" file for meta data
 
 Stored in the "amnesty" folder. See the "taz_amnesty_eps.tsv" file for meta data related to each Amnesty episode, not including live shows.
 1. Setup Episode - Complete
-2. The Beast Arc
+2. The Beast Arc - Complete
 3. The Water Monster Arc
 4. Interlude 1
 5. The Calamity Arc
