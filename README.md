@@ -11,7 +11,7 @@ Each file corresponds to a single episode of the podcast. Seasons of the podcast
 
 The repository is not yet complete. I will update it as I complete each arc of the show. I plan to start with just the Balance campaign, but will likely continue to update with Amnesty, Graduation and Ethersea.
 
-### The Balance Season - Complete
+### The Balance Campaign - Complete
 
 Stored in the "balance" folder. See the "taz_balance_eps.tsv" file for meta data related to each Balance episode, not including live shows.
 1. Here there be Gerblins - Complete
@@ -28,6 +28,19 @@ Stored in the "balance" folder. See the "taz_balance_eps.tsv" file for meta data
 12. Lunar Interlude V - Complete
 13. The Stolen Century - Complete
 14. Story and Song: Finale - Complete
+
+### Amnesty Campaign - Complete
+
+Stored in the "amnesty" folder. See the "taz_amnesty_eps.tsv" file for meta data related to each Amnesty episode, not including live shows.
+1. Setup Episode - Complete
+2. The Beast Arc
+3. The Water Monster Arc
+4. Interlude 1
+5. The Calamity Arc
+6. Interlude 2
+7. The Countenance Arc
+8. Interlude 3
+9. The Final Arc
 
 ## Publishing Guidelines
 
