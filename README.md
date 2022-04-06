@@ -36,7 +36,7 @@ Stored in the "amnesty" folder. See the "taz_amnesty_eps.tsv" file for meta data
 2. The Beast Arc - Complete
 3. The Water Monster Arc - Complete
 4. Interlude 1 - Complete
-5. The Calamity Arc
+5. The Calamity Arc - Complete
 6. Interlude 2
 7. The Countenance Arc
 8. Interlude 3
