@@ -40,7 +40,7 @@ Stored in the "amnesty" folder. See the "taz_amnesty_eps.tsv" file for meta data
 6. Interlude 2 - Complete
 7. The Countenance Arc - Complete
 8. Interlude 3 - Complete
-9. The Final Arc
+9. The Final Arc - Complete
 
 ## Publishing Guidelines
 
