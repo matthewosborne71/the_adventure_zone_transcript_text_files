@@ -374,41 +374,41 @@ Griffin: [Giggles] You hear the sound of a spear’s butt hitting the ground and
 Griffin: It is a cold room almost entirely carved from the same marble as the columns outside with a ceiling that stretches into the heavens, painted with an intricate mural of dozens of Sylvans of all shapes and sizes, all just touching the crystal. Almost as if to taunt you, Aubrey. And surrounding you are rows of benches that climb the walls of the rooms, designated for observers to come and watch the proceedings that take place here. They are all completely empty. In front of you are three tall pedestals adorned with crests noting various royal titles. And seated on top of them are three individuals who, based on the crests beneath them, you assume serve important roles in this city. There is the Minister of the Arcane, a short Sylvan woman dressed in a thick coat with several thick scarves draped around her neck. She's reading a large tome atop her pedestal and does not appear to acknowledge your presence as you enter. In the center pedestal is the Minister of Preservation, an older, large spectral man, who looks down from his pedestal at your entry, intensely eyeing you with disdain. And atop the final pedestal is the Minister of Defense. It's Vincent, who gives you a wink and a quick okay gesture with his hand as you step inside. And the door shuts behind you and the sound echoes through the chamber. The three ministers are sitting atop their pedestals, silently. They say nothing as you enter.
 Aubrey: Should we kneel?
 Duck: Yep, maybe.
-Minister of Preservation: [shouting] Silence!
+Woodbridge: [shouting] Silence!
 Duck: O-okay...
 Griffin: The spectral man shouts,
-Minister of Preservation: You will not speak until the Interpreter has arrived. Do you understand me?!
+Woodbridge: You will not speak until the Interpreter has arrived. Do you understand me?!
 Duck: ..Yea-
-Minister of Preservation: [shouting] Silence! Silence, god!
+Woodbridge: [shouting] Silence! Silence, god!
 Travis: In the meantime, Aubrey, almost offhandedly because she's been doing it so much, kinda starts nervously doing her little fire jumping from finger to finger.
 Griffin: The spectral man sees you and says,
-Minister of Preservation: What are you doin— don't make a fire! Just wait silently for [crosstalk] the Inter—
+Woodbridge: What are you doin— don't make a fire! Just wait silently for [crosstalk] the Inter—
 Aubrey: No, I was just practicing [crosstalk] I didn't even—
-Minister of Preservation: Silence, c’mon! We had a whole thing about silence!
+Woodbridge: Silence, c’mon! We had a whole thing about silence!
 Aubrey: I didn't even notice I was doing it, sorry.
 Ned: You people are so rule-oriented. [crosstalk] Just relax!
-Minister of Preservation: Oh my god, the non-silence is almost unbelievable at this point. It’s— oh, oh, oh!
+Woodbridge: Oh my god, the non-silence is almost unbelievable at this point. It’s— oh, oh, oh!
 Griffin: And he hushes up as the sound of a loud creak fills the chamber and you see a door behind the three pedestals open and a Sylvan girl, no older than 13 you would estimate, steps through the door and onto a platform that is raised behind the three pedestals. She looks tired, partially because she's wearing what appears to be a long nightgown that reaches her feet. And there is a humble throne on this platform which she approaches and puts a hand on but doesn't sit down in. And she peers over the railing of this platform and looks at the three of you one at a time and then gives a faint smile and says
 Alexandra: Nice to meet you.
 Griffin: And then she turns and shuffles back through the door and out of the royal hall. And the Minister of Preservation, atop of his pedestal, says,
-Minister of Preservation: Yes, well... another inspiring declaration. So then, humans, go ahead, introduce yourselves.
+Woodbridge: Yes, well... another inspiring declaration. So then, humans, go ahead, introduce yourselves.
 Aubrey: Okay?
 Duck: I'm Duck Newton, it's a nickname. I'm from the forestry service, the Monongahela State Forest and the Pine Guard, apparently.
-Minister of Preservation: You smell of, uh, earthen mulch. It's not entirely unpleasant. Usually your kind have a certain stink about you. Yours is above average.
+Woodbridge: You smell of, uh, earthen mulch. It's not entirely unpleasant. Usually your kind have a certain stink about you. Yours is above average.
 Duck: Yeah, I'm not sure where you'd be getting the mulch from. That's a—
-Minister of Preservation: Just dirt. Dirt has— like, fresh, [crosstalk] nice, good forest dirt.
+Woodbridge: Just dirt. Dirt has— like, fresh, [crosstalk] nice, good forest dirt.
 Duck: Dirt... uh... oh, dirt! Sure, yeah, yeah. Dirt, woods.
 Aubrey: Uh, my name is Aubrey Little. You can call me The Lady Flame, if you’re a fan, and, um, I'm kind of from all over. Human, Pine Guard, and I am dying to know what I smell like.
-Minister of Preservation: Mm, yours is... unremarkable. You smell of denim. You smell of crisp denim.
+Woodbridge: Mm, yours is... unremarkable. You smell of denim. You smell of crisp denim.
 Travis: [imitating the Minister of Preservation] Fresh from the horse. [laughter]
 Ned: And I am Ned Aloysius Chicane, master of all I survey!
 Aubrey: What?
 Duck: Hmm.
 Ned: [talking with a full mouth] Toastmaster!
 Aubrey: Okay.
-Minister of Preservation: Are you eating something right now?
+Woodbridge: Are you eating something right now?
 Justin: Do you have something in your mouth?
-Minister of Preservation: Do you have some— do you have a jawbreaker [crosstalk] in your mouth?
+Woodbridge: Do you have some— do you have a jawbreaker [crosstalk] in your mouth?
 Justin: Dad, do you have a jawbreaker in your fucking mouth? You legally have to tell me if [crosstalk] you have a jawbreaker in your mouth.
 Clint: No! I don't do [crosstalk] jawbreakers.
 Justin: We made podcast history—
@@ -428,9 +428,9 @@ Travis: [disbelieving] Uhh-huhhh.
 Justin: Here we go. [crosstalk] Here we go.
 Clint: [defensive] Maybe you don't know that, but I do have these issues I have to deal with.
 Griffin: He says,
-Minister of Preservation: Uh, I see, I see, I see. Have the three of you any confirmed kills of the Abominations on the other side? Do you have anything to prove your mettle?
+Woodbridge: Uh, I see, I see, I see. Have the three of you any confirmed kills of the Abominations on the other side? Do you have anything to prove your mettle?
 Aubrey: Yeah, actually we put one down.
-Minister of Preservation: I see, I, uh, I suppose you will do, not that we have any choice in the matter. So, my name is Woodbridge, Minister of Preservation. I ensure the—
+Woodbridge: I see, I, uh, I suppose you will do, not that we have any choice in the matter. So, my name is Woodbridge, Minister of Preservation. I ensure the—
 Aubrey: Hi!
 Woodbridge: Hi, yes. I ensure the survival of our kind in the wake of your world’s countless ruthless assaults.
 Aubrey: Yeah, we can be real assholes.
