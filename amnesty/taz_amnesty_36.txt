@@ -430,17 +430,14 @@ Computerized voice #1: Invaded by second extraterrestrial civilization. Defenses
 Griffin: And this pattern just doesn’t stop. This planet, Locus Prime, it continues this cycle of achieving prosperity and reaching for the stars, only for the stars to come crashing back down on them. Their accomplishments— they seem remarkable, but they were just constantly met with nothing but destruction from other worlds who took notice of their progress. Until eventually... [Mechanical click]
 Computerized voice #1: Teleoptical research laboratory decommissioned. Facility repurposed for a new defense project.   [Mechanical click]
 Computerized voice #1: Reconciliation founded.   [Music intensifies]
-Computerized voice #1: Mission statement To pacify the charted universe by eliminating aggressive elements before they achieve sufficient astronavigational or horizospatial advances to pose a threat to off-world civilizations.
-Hypothesis: By pitting two aggressive extraterrestrial civilizations against one another, elements will destroy themselves following appropriate encouragement from Reconciliation.
-Dilemma: Parties raise ethical concerns questioning the counterintuitive nature of the use of violence to promote desired extraterrestrial violence in an effort to reduce intergalactic violence.
-Solution: Belligerence limit established. When consensus vote from Reconciliation crew finds the project’s inherent aggression has exceeded acceptable levels, Reconciliation Project will be terminated.   [Mechanical click]
-Computerized voice #1: First aggressor-respondent match determined. Isospatial link successful.   [Mechanical click]
-Computerized voice #1: First provocateur dispatched. Interplanetary conflict achieved.   [Mechanical click]
+Computerized voice #1: Mission statement To pacify the charted universe by eliminating aggressive elements before they achieve sufficient astronavigational or horizospatial advances to pose a threat to off-world civilizations. Hypothesis By pitting two aggressive extraterrestrial civilizations against one another, elements will destroy themselves following appropriate encouragement from Reconciliation. Dilemma Parties raise ethical concerns questioning the counterintuitive nature of the use of violence to promote desired extraterrestrial violence in an effort to reduce intergalactic violence. Solution Belligerence limit established. When consensus vote from Reconciliation crew finds the project’s inherent aggression has exceeded acceptable levels, Reconciliation Project will be terminated.   [Mechanical click]
+Computerized voice #1: First aggressor-respondent match determined. Isospatial link successful. [Mechanical click]
+Computerized voice #1: First provocateur dispatched. Interplanetary conflict achieved. [Mechanical click]
 Computerized voice #1: Participant worlds eliminated.
 Griffin: And these pairings, they— they always follow the same pattern. Using this, you know, wildly advanced technology, they scan the stars for planets and civilizations that they deem too aggressive and could one day potentially pose a threat to, you know, other worlds in existence, then finds a match for those worlds, and then tethers the worlds together and provokes a war between them that will lead to their inevitable destruction. And though Locus Prime appears to be on the brink of collapse, they celebrate how little blood they have to get on their hands using this Reconciliation Project. And then, at the end of this document, the end of this timeline detailing the origins of this facility, there are a handful of final entries.   [Mechanical click]
 Computerized voice #1: Continued invasions render Locus Prime uninhabitable. Population dwindles near extinction point.   [Mechanical click]
 Computerized voice #1: Surviving populace abandons corporeal forms. 1,183 survivors transfer consciousness footprint to Reconciliation.   [Mechanical click]
-Computerized voice #1: Uploaded consciousness forms Deliberative Operational Mind.   [Mechanical click]
+Computerized voice #1: Uploaded consciousness forms Deliberative Operational Mind. [Mechanical click]
 Computerized voice #1: Extinction point of all corporeal life on Locus Prime. Reconciliation continues under direction of Deliberative Operational Mind.
 Griffin: And as you all finish reading this text document, you see the screen flicker and shut off.
 Duck: Can I just say something? Real quick?
@@ -820,26 +817,26 @@ Griffin: And then you hear the door into your bivouac slam closed, and it catche
 Mama: —yeah I’ll make sure to— ah, you’re going away. I’ll talk to you soon!
 Thacker: Okay!
 Griffin: Her voice is gone and you look up and you see a young woman who has walked into your office here. She has short dark hair and she is wearing some hiking gear. She’s got this huge backpack slung over her back. And she kinda drops it to the ground as she enters. And she says,
-Woman: Hi. You’re open, right?
+The Quell: Hi. You’re open, right?
 Thacker: Oh, uh, yeah. For... for what? Open for what?
-Woman: I was told that you were helping out travelers who found their way here.
+The Quell: I was told that you were helping out travelers who found their way here.
 Thacker: Oh, yeah! Absolutely. Yeah. We’re all— we’re all set up. Where you headin’?
-Woman: ...I don’t really know.
+The Quell: ...I don’t really know.
 Griffin: She says.
 Thacker: That’s the best way to be! [laughing] That is the best way to be. Just a-wanderin’.
-Woman: I... I don’t know how much you can help me. I understand you used to just do wilderness expeditions? Back where you were from?
+The Quell: I... I don’t know how much you can help me. I understand you used to just do wilderness expeditions? Back where you were from?
 Thacker: Yeah, absolutely. Yeah. KepEx is what we were called. By the way, I didn’t catch your name yet?
 Griffin: She continues. She says,
-Woman: I don’t really have a home to go back to. I’m just kinda looking to... get away from everything for a little bit. It... do you think there’s any way you could help me do that?
+The Quell: I don’t really have a home to go back to. I’m just kinda looking to... get away from everything for a little bit. It... do you think there’s any way you could help me do that?
 Thacker: Slick, if there’s somethin’ I can do to help you get away from everybody, trust me, that is right in my wheelhouse. [laughing] I’d be glad to help ya out.
 Griffin: She smiles and she says,
-Woman: I’d like to go somewhere quiet. I... I’ve made some recent unimaginably awful mistakes that require some deep contemplation. I think taking some time to walk and to think would do me good.
+The Quell: I’d like to go somewhere quiet. I... I’ve made some recent unimaginably awful mistakes that require some deep contemplation. I think taking some time to walk and to think would do me good.
 Thacker: Listen. That is what’s so great about where we are right now. There’s all kinds of open space. There’s all kinds of quiet space. Places to think, to get inside your own head. Yeah. We can do that. But listen. I know this kinda defeats the purpose but, if you wanna talk about it... I can put down this book right now and you can fill me in. Maybe I can— maybe I can give you some advice.
 Griffin: She smiles and she says,
-Woman: I was hoping you might come with me, Thacker-r-r-r [slight distorted glitching]. It would be nice to t-t-travel with a friend-d-d. Someone who might understand.
+The Quell: I was hoping you might come with me, Thacker-r-r-r [slight distorted glitching]. It would be nice to t-t-travel with a friend-d-d. Someone who might understand.
 Thacker: Oh! Ah... Yeah. Yeah. A friend to share it with? That’d be pretty nice.
 Griffin: She smiles and picks up her bag and she says,
-Woman: Where to?
+The Quell: Where to?
 Thacker: Out there. Out there, my friend.
 Griffin: Aubrey?
 Travis: Yes?
@@ -1030,7 +1027,7 @@ Minerva: It’s like combat in that way, isn’t it, Duck Newton?
 Duck: I—you know what? (laughing) It can feel that way sometimes, Minerva.
 Minerva: Like goofs combat. I feel a new power surging through me, Duck Newton.
 Duck: The power of humor.
-Minerva's: The power of goofs!
+Minerva: The power of goofs!
 Duck: Goof power, yeah.
 Minerva: Step back, Jay Leno! I’m coming for your throne! Your throne of jokes!
 Griffin: The seasons pass, blanketing Kepler in even measures of wildflowers, pine needles, and snow. The town and its people have changed for better, and worse, following the events of that fateful year. The FBI compound stationed on Cliffside has been decommissioned, restoring the Monongahela National Forest to its natural beauty. A skeleton crew, headed by one Agent Stern, maintains a watch on the now dormant archway in the woods. He knows it’s wasted effort; that archway will never activate again. Most importantly, the facility’s encroaching border has disappeared. Amnesty Lodge is back open for business. We see the hot springs behind the building, with an off-duty Agent Stern and Barclay resting in the steaming waters, dozing on rolled-up towels. We see the former underground headquarters of the Pine Guard, now mostly used for storage for Mama’s side-business. And we see Mama, in her workshop. She’s untying an apron and sweeping up sawdust into orderly piles. She opens a window to ventilate her workspace, and looks up into the sky. Several miles away, Dr. Sarah Drake sets down a magazine. She looks at her watch and flips a switch. The Green Bank telescope begins to hum. We see Amnesty Lodge under a cloudless, late afternoon sky. For a brief moment, a beam of green light fires into the heavens behind the pines. Barclay steps out of the front door, drying his hair with a hand towel. He hops into Mama’s truck, which is hauling a large cylindrical shape beneath a blue tarp that whips in the wind as Barclay descends Cliffside. He passes Sheriff Owens and Detective Megan parked in a squad car outside the grand reopening of the Mt. Kepler ski trails. Through the crowd, Barclay sees a now-vindicated Eugene leading the festivities. He brakes as a couple crosses the street towards the ceremony. It’s Muffy and Winthrop, in matching ski-bunny outfits. They wave, and then they watch him, knowingly, as he continues down the road. He curves around the bend, down the cliff, merging onto the main drag, passing the construction site for the Hornets Nest Action Park, the much-anticipated extreme sports facility built on the ruins of H2-Whoa, That Was Fun. The Hornets enjoy a jovial break in the parking lot. Keith and Hollis notice Barclay’s approach and wave with a smile. They nudge Jake Cool-ice, who jumps with a start, and looks at his watch, and rushes into the passenger seat. And they pass through Riverside, past the sheriff’s station, past a closed-down Leo’s grocery store, past the recently-rebuilt City Hall, slowing to a stop as they roll down a dirt road into the parking lot of the Cryptonomica. The scene here is chaotic, but Kirby manages it with a veteran’s ease. Several fans of Saturday Night Dead are filling coolers and laying out food for a party. Calvin Owens and his friends are gathered around the grill. This event is coming together, and just in time. As the beam launches from the tip of the Green Bank Telescope, Duck and Minerva, still fresh off a plane, scramble into the secret sanctum. There’s the sound of a blade ripping through reality, and then... the sound of joyous reunion. The door opens, and old friends step out from the rift-lit closet. Moira and Dewey phase through the wall, laughing with glee. Vincent steps through, sweeping up Minerva and Duck in an overpowering hug. Alexandra and Dani help Janelle, who is sporting a cast on her left leg, through the rift and into the room. Janelle waves off questions about her injury, and provides snacks for the party a full case of fresh pudding fruit. Indrid Cold exits the closet and makes a bee-line for Leo Tarkesian. He asks how he’s settling into the new job. Leo pulls the keys to the Winnebago from his pocket, and dons a pair of red-tinted glasses. Duck breaks free from Vincent’s embrace, just in time to see Thacker and Aubrey step through the doorway. All of them pause. A wide smile crosses Aubrey’s face. She takes a step toward her old friend, only to be cut off by Dr. Harris Bonkers, who nearly knocks Duck over as he leaps towards the box of illegally-imported pudding snacks. The trio’s laughter fills the room. Light pours in through the windows. Outside, a handful of party goers activate a projector. On the broad side of Kepler, West Virginia’s premiere museum of the macabre, the final, unaired episode of Saturday Night Dead makes its debut.

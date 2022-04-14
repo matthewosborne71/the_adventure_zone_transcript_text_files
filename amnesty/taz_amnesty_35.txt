@@ -354,13 +354,13 @@ Griffin: She, raises her hand, and as she does so you start to see these lines f
 Griffin: The momentum catches you off guard as all of your senses return. You’re standing on a- a small grassy island, and it’s about 20 feet in diameter and there’s a- a warm wind, blowing all around you disturbing the grass on this, small, lush plane and, then an object shoots by overhead, spun about by the breeze. It’s, another island, similar in size to your own, moving in a- a slightly faster orbit nearby. You stand in the core and, your body is light, you feel like you could drift away from- from this island at any second but for whatever reason your feet remain planted to the ground and all around you chunks of land from seemingly different biomes are all, circling the center of this just like mile wide chamber. As you survey all of these, these islands around you, you realize where they come from. Every surface, every wall of- of this chamber is just full of life, it’s full of like, trees, and grass, and rivers, and lakes, and sand dunes, and, canyons, just all these reminders of the land that used to exist up on the surface, all just stored here around the perimeter of the core of the planet. And then your island that you’re standing on, it begins to rotate, and as it does, the Heart of the Quell dawns over its horizon. It is a perfect sphere, the most perfect sphere to ever exist, just flawless and, reflective, and deep red, and it’s casting this warm light off of itself in flashes, in- in- in pulses. It is completely motionless, and yet it is seething, and you can’t figure out like, how you know that it just is, and all of you feel your teeth grit reflexively as it comes into view. There’s no smoke, there’s no cloud, there’s nothing to obscure your vision. You stand, in the core of the planet with the Heart of the Quell in the distance, what do you do?
 Aubrey: [Yelling to the Quell] I’m Sylvain! Hi!
 Griffin: The sphere rolls, and it’s like, it’s far away enough that you can't really figure out just how big it is, but when you like look at all of these islands in its orbit, you discern that it is uh, like cosmic horror big. As it rolls, just faster than your eyes can decipher, there is a new light that comes into view. At the center of the sphere’s surface now, facing you, peering at you, is a hole in this flawless sphere. You see, one of these huge islands like lose its orbit as the Heart shifts and crashes into this- this enormous eye, and is consumed and destroyed by it, and, just instantly a red tendril shoots out of this eye and crashes into the side of your island, uh just instantly branching to form a loop around it, just lassoing it and beginning to retract it towards the center of the room, and it’s howling as it does, and it’s- it’s letting out this deep reverberant wail that rattles the walls of this chamber, uh forming cracks across the biomes. You see it drain a lake and- and just topple a forest and you feel these reverberations in your bones. Uh and in your inner ear and you’re able to make out a voice, that says
-Quell: So you’ve returned.
+The Quell: So you’ve returned.
 Aubrey: ...yes?
 Thacker: Uh, I think she’s talking to me, Sparky.
 Griffin: Uh, the Quell says
-Quell: Indeed, I was not addressing you Aubrey Little, you refused to free me in the basement you will be punished for that. How did you elude me Arlo Thacker?
+The Quell: Indeed, I was not addressing you Aubrey Little, you refused to free me in the basement you will be punished for that. How did you elude me Arlo Thacker?
 Thacker: Well, the last time I, kinda just give into ya, I just kinda let you, do that, magic that you do an’ I didn’t fight ya an’, kinda roll with the punches, kinda I opened myself up to ya. You r’member before, I told ya, if there’s any way to avoid us havin’ to s-slug it out, I, I think we ought to try to do that!
-Quell: It is nice to have you back, even now, at the end.
+The Quell: It is nice to have you back, even now, at the end.
 Griffin: Uh and the eye turns back towards you now, Aubrey.
 Aubrey: I, um, I’m sor- you probably didn’t hear me before because I was a lil’ far away, but I’m Sylvain, so there’s no need for “the end”.
 Griffin: Act Under Pressure.
@@ -368,12 +368,12 @@ Travis: An 8, act uh, plus 0, so an 8.
 Griffin: Small wiry tendrils whip out of the side of the- the larger tendril that is wrapped around your island and, they, all whip at you Aubrey and, you reflexively- you are able to uh dodge out of the way of them, um but, a cou- two of them whip across your, your stomach and as you- as you dodge away and you take, 2 harm.
 Travis: Ok...
 Griffin: And, you hear the Quell say
-Quell: This is heresy.
+The Quell: This is heresy.
 Griffin: Uh, and the eye shifts at you, Duck, and you hear the Quell say
-Quell: I do not know this one.
+The Quell: I do not know this one.
 Duck: Ah yeah, I’m the only one you don’t have a, um, history with huh [chuckles], you know you’re probably wonderin’ why I’m here, and uh, yeah I can wonder the same thing, honestly, uh, but um, I guess we’re just tryna’ get things a lil’ calm, seems like both our worlds are gettin’, torn apart and we’re just hopin’ that you’ll just uh, pump the brakes a little bit.
 Griffin: Uh the eye like, now unfocuses from all of you and opens wider and it starts to retract this island deeper towards it uh, even faster now, and, you hear the Quell say
-Quell: It is centuries too late for us to find peace. I tried to warn you, you should have stayed where you were, to perish with the rest of them.
+The Quell: It is centuries too late for us to find peace. I tried to warn you, you should have stayed where you were, to perish with the rest of them.
 Travis: I’m going to do some Big Magic.
 Griffin: Jesus, okay.
 Travis: So Aubrey is gonna close her eyes, and say
@@ -405,7 +405,7 @@ Duck: Hey! I know you don’t know me from Adam, up there, ego. But uh, can you 
 Griffin: Have you told it your name? Have you said it out loud?
 Duck: My name’s Duck, it’s a nickname.
 Griffin: You hear it say
-Quell: Duck. I do not need a reason to destroy, Duck. I am, destruction, Duck.
+The Quell: Duck. I do not need a reason to destroy, Duck. I am, destruction, Duck.
 Griffin: And, you see tendrils start to whip out of the larger tendril that is, uh holding on to your island... The same kind that struck Aubrey.
 Duck: Now wait a minute. Hold on. If you kill me, I can’t tell you my real name! I know you’re curious. You’re curious, aren’t you? You big, crazy planet.
 Griffin: Act Under Pressure, Duck. [Snorts]
