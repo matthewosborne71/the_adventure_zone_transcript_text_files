@@ -29,7 +29,7 @@ Stored in the "balance" folder. See the "taz_balance_eps.tsv" file for meta data
 13. The Stolen Century - Complete
 14. Story and Song: Finale - Complete
 
-### Amnesty Campaign - In Progress
+### Amnesty Campaign - Complete
 
 Stored in the "amnesty" folder. See the "taz_amnesty_eps.tsv" file for meta data related to each Amnesty episode, not including live shows.
 1. Setup Episode - Complete
